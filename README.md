@@ -4,4 +4,4 @@
 
 ***Hope you like it***
 
-![IMAGE](/image/WIREFRAME.jpg)
+![IMAGE](image/WIREFRAME.jpg)
